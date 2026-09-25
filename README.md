@@ -2,9 +2,10 @@ Here is the complete Python code for your Streamlit web application. It parses t
 
 ### objective -  Analysing the student score and give feedback by using ml model
 ### `app.py`
-<img width="1600" height="900" alt="Screenshot 2026-09-25 111649" src="https://github.com/user-attachments/assets/4b7592ed-7ae9-4e31-a739-c2b025eb430e" />
-<img width="1600" height="900" alt="Screenshot 2026-09-25 111753" src="https://github.com/user-attachments/assets/b27de6f0-c878-46b7-9d6d-dee9a141b773" />
 
+<img width="1600" height="900" alt="Screenshot 2026-09-25 111649" src="https://github.com/user-attachments/assets/dee5ed7d-730e-4ac2-955f-0a3a20a0bd23" />
+
+<img width="1600" height="900" alt="Screenshot 2026-09-25 111753" src="https://github.com/user-attachments/assets/69eacd69-9c9d-4676-9995-1846d948f002" />
 
 
 Here is a complete, production-ready Streamlit application structure and codebase based on the exploratory analysis performed in `NaviBayes.ipynb`.
